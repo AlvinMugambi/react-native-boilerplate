@@ -20,7 +20,7 @@
     "apollo-client": "^2.6.3",
     "apollo-link-http": "^1.5.15",
     "apollo-link-ws": "^1.0.18",
-    "expo": "32.0.0",
+    "expo": "46.0.16",
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
     "jwt-decode": "^2.2.0",
